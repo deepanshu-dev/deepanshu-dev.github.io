@@ -1,5 +1,7 @@
 .main-container {
     margin: -70px auto 0 auto;
+    flex-grow: 1;
+    width: 100%;
 }
 
 /* --- LANDING PAGE --- */
